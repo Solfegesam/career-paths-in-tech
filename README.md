@@ -25,7 +25,32 @@ Each section is written and contributed through a pull request by a different te
 
 
 ## Data Scientist
-<!-- Explorerjoshua will write this section -->
+
+A **Data Scientist** analyzes large amounts of data to extract meaningful insights that help organizations make informed decisions.
+
+### What They Do
+- Collect and clean data
+- Analyze datasets using statistical methods
+- Build predictive models
+- Visualize data for reports and presentations
+
+### Skills Required
+- Programming (Python or R)
+- Statistics and mathematics
+- Data visualization
+- Critical thinking and problem-solving
+
+### Tools Commonly Used
+- Python (Pandas, NumPy, Scikit-learn)
+- Jupyter Notebook
+- SQL
+- Tableau or Power BI
+
+### How to Get Started
+1. Learn Python and basic statistics.
+2. Practice with datasets from Kaggle.
+3. Build small data analysis projects.
+4. Share projects on GitHub.
 
 
 ## UI/UX Designer
