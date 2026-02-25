@@ -78,5 +78,35 @@ A **Data Scientist** analyzes large amounts of data to extract meaningful insigh
 4. Share projects on GitHub.
 
 
-## UI/UX Designer
-<!-- blis608 will write this section -->
+## UI/UX Designer 
+A *UI/UX Designer* focuses on creating user-friendly and visually appealling digital experiences.
+
+### What They Do
+.Research user needs
+.Create wireframes and prototypes
+.Design user interfaces
+.Improve usability and accessibility
+
+### Skills Required
+.Creativity and design thinking
+.Understanding of user behavior
+.Basic knowledge of front-end development
+.Communication skills
+
+### Tools Commonly Used
+.Figma
+.Adope xD
+.Canva
+.Sketch
+
+### How To Get Started
+1.Learning design principles.
+2.Practice creating wireframes
+3.Study good website and app designs.
+4.Build a design portfolio.
+ 
+
+ 
+
+
+
