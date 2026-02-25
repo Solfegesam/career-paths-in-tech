@@ -21,7 +21,32 @@ This project demonstrates practical team collaboration using GitHub workflow, in
 
 
 ## Software Engineer
-<!-- Solfegesam will write this section -->
+
+A **Software Engineer** designs, develops, tests, and maintains software applications and systems.
+
+### What They Do
+- Write and maintain code
+- Build websites, apps, and software systems
+- Fix bugs and improve performance
+- Collaborate with other developers and designers
+
+### Skills Required
+- Programming languages (Python, JavaScript, Java, C++)
+- Problem-solving skills
+- Understanding of algorithms and data structures
+- Team collaboration skills
+
+### Tools Commonly Used
+- Git & GitHub
+- VS Code
+- Docker
+- Cloud platforms (AWS, Azure, GCP)
+
+### How to Get Started
+1. Learn programming fundamentals.
+2. Build personal projects.
+3. Contribute to open-source projects.
+4. Create a GitHub portfolio.
 
 
 ## Data Scientist
