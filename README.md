@@ -17,7 +17,7 @@ A collaborative guide created by:
 The technology industry offers a wide range of exciting and rewarding career paths. 
 This guide introduces three important roles in tech, explaining what they do, the skills required, and how to get started.
 
-Each section is written and contributed through a pull request by a different team member.
+This project demonstrates practical team collaboration using GitHub workflow, including branching, pull requests, code review, and merge conflict resolution.
 
 
 ## Software Engineer
