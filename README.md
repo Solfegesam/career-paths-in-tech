@@ -79,25 +79,25 @@ A **Data Scientist** analyzes large amounts of data to extract meaningful insigh
 
 
 ## UI/UX Designer 
-A *UI/UX Designer* focuses on creating user-friendly and visually appealling digital experiences.
+A **UI/UX Designer** focuses on creating user-friendly and visually appealling digital experiences.
 
 ### What They Do
-.Research user needs
-.Create wireframes and prototypes
-.Design user interfaces
-.Improve usability and accessibility
+- Research user needs
+- Create wireframes and prototypes
+- Design user interfaces
+- Improve usability and accessibility
 
 ### Skills Required
-.Creativity and design thinking
-.Understanding of user behavior
-.Basic knowledge of front-end development
-.Communication skills
+- Creativity and design thinking
+- Understanding of user behavior
+- Basic knowledge of front-end development
+- Communication skills
 
 ### Tools Commonly Used
-.Figma
-.Adope xD
-.Canva
-.Sketch
+- Figma
+- Adope xD
+- Canva
+- Sketch
 
 ### How To Get Started
 1.Learning design principles.
