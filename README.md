@@ -4,14 +4,15 @@ A collaborative guide created by:
 - @Solfegesam
 - @Explorerjoshua
 - @blis608
-
+  
 ---
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Software Engineer](#software-engineer)
-- [Data Scientist](#data-scientist)
-- [UI/UX Designer](#uiux-designer)
+
+- [Introduction](#introduction) 
+- [Software Engineer](#software-engineer)    
+- [Data Scientist](#data-scientist)  
+- [UI/UX Designer](#ui-ux-designer)
   
 ---
 
@@ -106,9 +107,10 @@ A **UI/UX Designer** focuses on creating user-friendly and visually appealling d
 - Sketch
 
 ### How To Get Started
-1.Learning design principles.
-2.Practice creating wireframes
-3.Study good website and app designs.
+1. Learning design principles
+2. Practice creating wireframes
+3. Study good website and app designs
+4. Build a design portfolio
 
 ---
 
@@ -120,7 +122,7 @@ Here are useful resources for learning about tech careers:
 - https://developer.mozilla.org/
 - https://docs.github.com/
 
-4.Build a design portfolio.
+
  
 
  
