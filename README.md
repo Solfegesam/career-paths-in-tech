@@ -5,6 +5,7 @@ A collaborative guide created by:
 - @Explorerjoshua
 - @blis608
 
+---
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,6 +13,7 @@ A collaborative guide created by:
 - [Data Scientist](#data-scientist)
 - [UI/UX Designer](#uiux-designer)
   
+---
 
 ## Introduction
 The technology industry offers a wide range of exciting and rewarding career paths. 
@@ -19,6 +21,7 @@ This guide introduces three important roles in tech, explaining what they do, th
 
 This project demonstrates practical team collaboration using GitHub workflow, including branching, pull requests, code review, and merge conflict resolution.
 
+---
 
 ## Software Engineer
 
@@ -48,10 +51,12 @@ A **Software Engineer** designs, develops, tests, and maintains software applica
 3. Contribute to open-source projects.
 4. Create a GitHub portfolio.
 
+---
 
 ## Data Scientist
 
 A **Data Scientist** analyzes large amounts of data to extract meaningful insights that help organizations make informed decisions.
+
 
 ### What They Do
 - Collect and clean data
@@ -77,6 +82,7 @@ A **Data Scientist** analyzes large amounts of data to extract meaningful insigh
 3. Build small data analysis projects.
 4. Share projects on GitHub.
 
+---
 
 ## UI/UX Designer 
 A **UI/UX Designer** focuses on creating user-friendly and visually appealling digital experiences.
@@ -103,6 +109,17 @@ A **UI/UX Designer** focuses on creating user-friendly and visually appealling d
 1.Learning design principles.
 2.Practice creating wireframes
 3.Study good website and app designs.
+
+---
+
+## Resources
+
+Here are useful resources for learning about tech careers:
+
+- https://www.freecodecamp.org/
+- https://developer.mozilla.org/
+- https://docs.github.com/
+
 4.Build a design portfolio.
  
 
