@@ -122,7 +122,17 @@ Here are useful resources for learning about tech careers:
 - https://developer.mozilla.org/
 - https://docs.github.com/
 
+---
 
+## Contributing
+
+If you would like to contribute to this project,follow these steps:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
+ 
  
 
  
